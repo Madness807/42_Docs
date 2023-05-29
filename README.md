@@ -16,7 +16,7 @@
     - header.h
 - srcs
     - main.c
-utils
+- utils
     - util1.c
     - util2.c
 - Makefile
