@@ -32,7 +32,7 @@ utils
 ## Quatrieme étape 
 - Fermeture du programme et nettoyage de la mémoire.
 
-## Cinquiemme et derniere étape 
+## Cinquiemme étape
 - Procéder la tchek list de bonne confonrmité de mon programme
 
 1. Test arguments d'entrée et de la gestion d erreurs de ces dernieres.
