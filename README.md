@@ -1,3 +1,5 @@
+!!!!!! A CORRIGER !!!!!!
+
 # Approche pour élaborer un programme informatique en C
 
 ## Premiere étape
