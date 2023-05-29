@@ -13,7 +13,7 @@
     - allow_function.md
     - note.txt
 - include
-    header.h
+    - header.h
 - srcs
     - main.c
 utils
